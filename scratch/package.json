@@ -1,0 +1,11 @@
+{
+    "name": "scratch",
+    "dependencies": {
+        "nuxt": "^2.15.3"
+    },
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start"
+    }
+}
